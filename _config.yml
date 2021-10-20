@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Department of Digital Transformation in Energy Systems @ Technical University of Berlin
+title: Digital Transformation in Energy Systems @ Technical University of Berlin
 # email: your-email@example.com
 logo: /assets/img/logo.png
 description: >- # this means to ignore newlines until "baseurl:"
-  We are energy system modellers maintaining the PyPSA ecosystem.
+  We are energy system modellers researching the most cost-effective pathways to reduce greenhouse gas emissions in the energy system.  We also maintain the [PyPSA](https://pypsa.org) ecosystem.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
