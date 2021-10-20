@@ -37,7 +37,7 @@ best possible policy guidance for the transition to a sustainable energy future.
 Administration
 
 - [Paola Caria](mailto:p.caria.job@gmail.com)
-- [Suzanne Linehan Winter](s.linehanwinter@ensys.tu-berlin.de)
+- [Suzanne Linehan Winter](mailto:s.linehanwinter@ensys.tu-berlin.de)
 
 ## Teaching
 
