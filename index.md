@@ -28,16 +28,6 @@ To tackle this challenge we're developing new algorithms and methodologies so
 that we can capture these details in a manageable way and therefore provide the
 best possible policy guidance for the transition to a sustainable energy future.
 
-In particular we focus on:
-
-- How to reduce emissions in all energy sectors, including electricity, transport, heating and industry
-- The requirements for electricity grid reinforcement with large shares of wind and solar generation, and increased energy trade
-- Using sectoral integration to reduce the need for transmission grid reinforcement
-- Understanding where model details and interdependencies are important and where they're not
-- Heuristics that mimic full-system optimisation but are easier to analyse and explain
-- Near-optimal solutions that are cost-effective but achieve high levels of public acceptance
-- Open source software and open data to enhance transparency and reproducibility
-
 ## Our Group
 
 - [Prof. Dr. Tom Brown](https://nworbmot.org)
@@ -69,6 +59,9 @@ If you're interested, please send a CV and a transcript of records to [Fabian Ne
 
 Current vacancies will be listed here.
 
+## Current Research
+
+Recent research papers will be listed here.
 
 ## Address
 
