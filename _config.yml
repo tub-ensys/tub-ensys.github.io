@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Digital Transformation in Energy Systems @ Technical University of Berlin
+title: Digital Transformation in Energy Systems @ TU Berlin
 # email: your-email@example.com
 logo: /assets/img/logo.png
 description: >- # this means to ignore newlines until "baseurl:"
