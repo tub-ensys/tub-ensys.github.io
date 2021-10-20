@@ -7,7 +7,7 @@ layout: default
 
 ## About Us
 
-We are an energy system modelling group
+We are an energy system modelling group.
 ## Group Members
 
 - Prof. Dr. Tom Brown
@@ -21,9 +21,13 @@ We are an energy system modelling group
 
 | Course | ID | Trainers |
 | ---  | --- | --- |
-| Wirtschaftswissenschaftliche Grundlagen für Studierende der Ingenieurwissenschaften | 0330 L 540 | Prof. Dr. Tom Brown, Lisa Zeyen | 
+| Wirtschaftswissenschaftliche Grundlagen für Studierende der Ingenieurwissenschaften | 0330 L 540 | Prof. Dr. Tom Brown, Lisa Zeyen |
+| Energy Economics | ?? | Prof. Dr. Tom Brown, Fabian Neumann |
+| New Developments in Energy Markets / Neue Entwicklungen auf den Energiemärkten | 0330 L 526 | Prof. Dr. a.D. Georg Erdmann, Prof. Andreas Grübel, Prof. Dr. Tom Brown, Fabian Neumann |
 
 ### Theses
+
+Please get in contact with Fabian Neumann fneum@mail.tu-berlin.de
 ## Research
 
 TODO
