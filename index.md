@@ -15,6 +15,11 @@ We are an energy system modelling group.
 - Fabian Neumann
 - ...
 
+
+Secretary
+
+- Paola Caria
+- Suzanne Linehan Winter
 ## Teaching
 
 ### Winter Term 2021/2022
@@ -31,3 +36,11 @@ Please get in contact with Fabian Neumann fneum@mail.tu-berlin.de
 ## Research
 
 TODO
+
+## Address
+
+Fachgebiet Energiesysteme
+Institut für Energietechnik
+Fakultät III
+Einsteinufer 25 (TA 8)
+10587 Berlin 
