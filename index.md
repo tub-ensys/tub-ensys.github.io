@@ -30,13 +30,13 @@ best possible policy guidance for the transition to a sustainable energy future.
 
 In particular we focus on:
 
-    - How to reduce emissions in all energy sectors, including electricity, transport, heating and industry
-    - The requirements for electricity grid reinforcement with large shares of wind and solar generation, and increased energy trade
-    - Using sectoral integration to reduce the need for transmission grid reinforcement
-    - Understanding where model details and interdependencies are important and where they're not
-    - Heuristics that mimic full-system optimisation but are easier to analyse and explain
-    - Near-optimal solutions that are cost-effective but achieve high levels of public acceptance
-    - Open source software and open data to enhance transparency and reproducibility
+- How to reduce emissions in all energy sectors, including electricity, transport, heating and industry
+- The requirements for electricity grid reinforcement with large shares of wind and solar generation, and increased energy trade
+- Using sectoral integration to reduce the need for transmission grid reinforcement
+- Understanding where model details and interdependencies are important and where they're not
+- Heuristics that mimic full-system optimisation but are easier to analyse and explain
+- Near-optimal solutions that are cost-effective but achieve high levels of public acceptance
+- Open source software and open data to enhance transparency and reproducibility
 
 ## Our Group
 
@@ -72,12 +72,8 @@ Current vacancies will be listed here.
 
 ## Address
 
-Fachgebiet Digitaler Wandel in Energiesystemen
-
-Institut für Energietechnik
-
-Fakultät III
-
-Einsteinufer 25 (TA 8)
-
+Fachgebiet Digitaler Wandel in Energiesystemen\
+Institut für Energietechnik\
+Fakultät III\
+Einsteinufer 25 (TA 8)\
 10587 Berlin 

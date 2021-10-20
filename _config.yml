@@ -22,7 +22,7 @@ title: Digital Transformation in Energy Systems @ Technical University of Berlin
 # email: your-email@example.com
 logo: /assets/img/logo.png
 description: >- # this means to ignore newlines until "baseurl:"
-  We are energy system modellers researching the most cost-effective pathways to reduce greenhouse gas emissions in the energy system.  We also maintain the [PyPSA](https://pypsa.org) ecosystem.
+  We are energy system modellers researching the most cost-effective pathways to reduce greenhouse gas emissions in the energy system.  We also maintain the PyPSA ecosystem.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
