@@ -5,4 +5,20 @@
 layout: default
 ---
 
-Welcome
+## About Us
+
+We are an energy system modelling group
+## Group Members
+
+- Tom Brown
+- Lisa Zeyen
+- Fabian Neumann
+- ...
+## Teaching
+
+### Winter Term 2021/2022
+
+### Theses
+## Research
+
+TODO
