@@ -10,7 +10,7 @@ layout: default
 We are an energy system modelling group
 ## Group Members
 
-- Tom Brown
+- Prof. Dr. Tom Brown
 - Lisa Zeyen
 - Fabian Neumann
 - ...
@@ -18,6 +18,10 @@ We are an energy system modelling group
 ## Teaching
 
 ### Winter Term 2021/2022
+
+| Course | ID | Trainers |
+| ---  | --- | --- |
+| Wirtschaftswissenschaftliche Grundlagen für Studierende der Ingenieurwissenschaften | 0330 L 540 | Prof. Dr. Tom Brown, Lisa Zeyen | 
 
 ### Theses
 ## Research
