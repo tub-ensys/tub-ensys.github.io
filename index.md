@@ -14,6 +14,7 @@ We are an energy system modelling group
 - Lisa Zeyen
 - Fabian Neumann
 - ...
+
 ## Teaching
 
 ### Winter Term 2021/2022
