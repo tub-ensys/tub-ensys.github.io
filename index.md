@@ -86,7 +86,7 @@ Further information:
 
 ### 24/7 carbon-free power purchase agreements
 
-Finder: [Google](https://www.google.com/)
+Funder: [Google](https://www.google.com/)
 
 Duration: 01.11.2021 - 31.01.2024
 
@@ -107,6 +107,41 @@ Further information:
 - [Google's 24/7 CFE concept](https://www.gstatic.com/gumdrop/sustainability/247-carbon-free-energy.pdf)
 - [Google's 24/7 CFE metrics and methodology](https://www.gstatic.com/gumdrop/sustainability/24x7-carbon-free-energy-methodologies-metrics.pdf)
 - [UN's 24/7 Carbon-free Energy Compact](https://www.un.org/en/energy-compacts/page/compact-247-carbon-free-energy)
+
+## Selected Recent Publications
+
+* M. Victoria, E. Zeyen, T. Brown [**Speed of technological transformations required for distinct climate ambitions in Europe**](https://arxiv.org/abs/2109.09563), 2021, [preprint arXiv:2109.09563](https://arxiv.org/abs/2109.09563)
+
+* J. Hampp, M. D&uuml;ren, Tom Brown [**Import options for chemical energy carriers from renewable sources to Germany**](https://arxiv.org/abs/2107.01092), 2021, [preprint arXiv:2107.01092](https://arxiv.org/abs/2107.01092)
+
+* T. Brown, L. Reichenberg, [**Decreasing market value of variable renewables can be avoided by policy action**](https://arxiv.org/abs/2002.05209), **Energy Economics**, 2021, [postprint arXiv:2002.05209](https://arxiv.org/abs/2002.05209), [doi:10.1016/j.eneco.2021.105354](https://doi.org/10.1016/j.eneco.2021.105354)
+
+* E. Zeyen, V. Hagenmeyer, T. Brown, [**Mitigating heat demand peaks in buildings in a highly renewable European energy system**](https://arxiv.org/abs/2012.01831), **Energy**, 2021, [postprint arXiv:2012.01831](https://arxiv.org/abs/2012.01831), [doi:10.1016/j.energy.2021.120784](https://doi.org/10.1016/j.energy.2021.120784)
+
+* M. Frysztacki, J. H&ouml;rsch, V. Hagenmeyer, T. Brown, [**The strong effect of network resolution on electricity system models with high shares of wind and solar**](https://arxiv.org/abs/2101.10859), **Applied Energy**, 2021, [preprint arXiv:2101.10859](https://arxiv.org/abs/2101.10859), [doi:10.1016/j.apenergy.2021.116726](https://doi.org/10.1016/j.apenergy.2021.116726)
+
+* M. Victoria, K. Zhu, T. Brown, G.B. Andresen, M. Greiner, [**Early decarbonisation of the European energy system pays off**](https://arxiv.org/abs/2004.11009), **Nature Communications**, 2020, [preprint arXiv:2004.11009](https://arxiv.org/abs/2004.11009), [doi:10.1038/s41467-020-20015-4](https://doi.org/10.1038/s41467-020-20015-4)
+
+* F. Neumann, T. Brown [**The Near-Optimal Feasible Space of a Renewable Power System Model**](https://arxiv.org/abs/1910.01891), **Electric Power Systems Research**, 2020, [postprint arXiv:1910.01891](https://arxiv.org/abs/1910.01891), [doi:10.1016/j.epsr.2020.106690](https://doi.org/10.1016/j.epsr.2020.106690)
+
+
+* F. Hofmann, J. Hampp, F. Neumann, T. Brown, J. H&ouml;rsch, [**atlite: A Lightweight Python Package for Calculating Renewable Power Potentials and Time Series**](https://joss.theoj.org/papers/10.21105/joss.03294), **Journal of Open Source Software**, 2021, [doi:10.21105/joss.03294](https://doi.org/10.21105/joss.03294)
+
+* F. Neumann, V. Hagenmeyer, T. Brown, [**Approximating Power Flow and Transmission Losses in Coordinated Capacity Expansion Problems**](https://arxiv.org/abs/2008.11510), 2020, [preprint arXiv:2008.11510](https://arxiv.org/abs/2008.11510)
+
+* F. Neumann, T. Brown, [**Transmission Expansion Planning Using Cycle Flows**](https://arxiv.org/abs/2004.08702), accepted to ACM e-Energy 2020, [preprint arXiv:2004.08702](https://arxiv.org/abs/2004.08702), [doi:10.1145/3396851.3397688](https://doi.org/10.1145/3396851.3397688)
+
+* T. Brown, D. Schlachtberger, A. Kies, S. Schramm, M. Greiner, [**Synergies of sector coupling and transmission reinforcement in a cost-optimised, highly renewable European energy system**](https://arxiv.org/abs/1801.05290), **Energy**, 2018, [postprint arXiv:1801.05290](https://arxiv.org/abs/1801.05290), [all input data, code and output data on Zenodo](https://zenodo.org/record/1146665), [doi:10.1016/j.energy.2018.06.222](https://doi.org/10.1016/j.energy.2018.06.222)
+
+* T. Brown, T. Bischof-Niemz, K. Blok, C. Breyer, H. Lund, B.V. Mathiesen, [**Response to 'Burden of proof: A comprehensive review of the feasibility of 100% renewable-electricity systems'**](https://arxiv.org/abs/1709.05716),
+**Renewable and Sustainable Energy Reviews**, May 2018, open access, [postprint arXiv:1709.05716](https://arxiv.org/abs/1709.05716),
+[doi:10.1016/j.rser.2018.04.113](https://doi.org/10.1016/j.rser.2018.04.113)
+
+* A. Orths, C.L. Anderson, T. Brown, J. Mulhern, D. Pudjianto, B. Ernst, M. O'Malley, J. McCalley, G. Strbac, [**Flexibility From Energy Systems Integration: Supporting Synergies Among Sectors**](https://doi.org/10.1109/MPE.2019.2931054), **IEEE Power & Energy Magazine**, November 2019, [doi:10.1109/MPE.2019.2931054](https://doi.org/10.1109/MPE.2019.2931054)
+
+* M. Victoria, K. Zhu, T. Brown, G.B. Andresen, M. Greiner, [**The role of photovoltaics in a sustainable European energy system under variable CO2 emissions targets, transmission capacities, and costs assumptions**](https://arxiv.org/abs/1911.06629), **Progress in Photovoltaics**, 2019, [postprint arXiv:1911.06629](https://arxiv.org/abs/1911.06629), [doi:10.1002/pip.3198](https://doi.org/10.1002/pip.3198)
+
+
 
 ## Address
 
