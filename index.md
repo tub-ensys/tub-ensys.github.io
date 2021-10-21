@@ -34,7 +34,17 @@ best possible policy guidance for the transition to a sustainable energy future.
 - [Lisa Zeyen](mailto:e.zeyen@tu-berlin.de)
 - [Dr. Fabian Neumann](https://neumann.fyi)
 
-Administration
+### Tutors
+
+- Ali Serour
+- Arne Kaschubowski
+- Tom Kähler
+
+### Guests
+
+- Max Parzen (University of Edinburgh)
+
+### Administration
 
 - [Paola Caria](mailto:p.caria@tu-berlin.de)
 - [Suzanne Linehan Winter](mailto:s.linehanwinter@ensys.tu-berlin.de)
