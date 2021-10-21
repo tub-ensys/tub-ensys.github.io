@@ -64,9 +64,49 @@ We currently have no vacancies.
 - [PhD/Postdoc on 24/7 carbon-free energy in collaboration with Google](https://tub.stellenticket.de/de/offers/109218/?locale=en) (deadline 12.11.2021)
 - Studentische Hilfskraft / Tutor:in für Wirtschaftliche Grundlagen (bitte uns direkt kontaktieren)
 
-## Current Research
+## Current Research Projects
 
-Recent research papers will be listed here.
+### Integration of hydrogen and carbon management into energy system models
+
+Funder: [Breakthrough Energy Sciences](https://science.breakthroughenergy.org/)
+
+Duration: 01.10.2021 - 30.09.2024
+
+Topic: The goal is to improve the representation of hydrogen and
+carbon management in highly-resolved energy system models for the
+United States and Europe. This will allow us to carry out research
+into the future role of clean hydrogen and carbon capture in deep
+decarbonization scenarios. All code and research data will be made
+freely available with open source licences.
+
+Further information:
+
+- [Breakthrough Energy Sciences US power model](https://science.breakthroughenergy.org/model)
+- [European sector-coupled model PyPSA-Eur-Sec](https://github.com/PyPSA/pypsa-eur-sec)
+
+### 24/7 carbon-free power purchase agreements
+
+Finder: [Google](https://www.google.com/)
+
+Duration: 01.11.2021 - 31.01.2024
+
+Topic: Traditional Power Purchase Agreements (PPAs) for renewable
+energy have seen rapid growth in recent years, but they only match
+supply and demand on average over a longer period such as a
+year. There is increasing interest from corporations such as Google to
+match their demand with clean energy supply on a truly 24/7 basis,
+whether that is using variable renewables paired with storage, or
+using dispatchable clean sources such as geothermal power. In 2020
+Google committed to operating entirely on 24/7 carbon-free energy
+(CFE) at all of its data centres and campuses worldwide by 2030.  In
+this project we will explore different designs for a 24/7 carbon-free
+PPA, and how their deployment affects the rest of the energy system.
+
+Further information:
+
+- [Google's 24/7 CFE concept](https://www.gstatic.com/gumdrop/sustainability/247-carbon-free-energy.pdf)
+- [Google's 24/7 CFE metrics and methodology](https://www.gstatic.com/gumdrop/sustainability/24x7-carbon-free-energy-methodologies-metrics.pdf)
+- [UN's 24/7 Carbon-free Energy Compact](https://www.un.org/en/energy-compacts/page/compact-247-carbon-free-energy)
 
 ## Address
 
