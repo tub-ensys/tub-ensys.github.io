@@ -32,7 +32,7 @@ best possible policy guidance for the transition to a sustainable energy future.
 
 - [Prof. Dr. Tom Brown](https://nworbmot.org)
 - [Lisa Zeyen](mailto:e.zeyen@tu-berlin.de)
-- [Fabian Neumann](https://neumann.fyi)
+- [Dr. Fabian Neumann](https://neumann.fyi)
 
 Administration
 
@@ -110,9 +110,9 @@ Further information:
 
 ## Selected Recent Publications
 
-* M. Victoria, E. Zeyen, T. Brown [**Speed of technological transformations required for distinct climate ambitions in Europe**](https://arxiv.org/abs/2109.09563), 2021, [preprint arXiv:2109.09563](https://arxiv.org/abs/2109.09563)
+* M. Victoria, E. Zeyen, T. Brown, [**Speed of technological transformations required for distinct climate ambitions in Europe**](https://arxiv.org/abs/2109.09563), 2021, [preprint arXiv:2109.09563](https://arxiv.org/abs/2109.09563)
 
-* J. Hampp, M. D&uuml;ren, Tom Brown [**Import options for chemical energy carriers from renewable sources to Germany**](https://arxiv.org/abs/2107.01092), 2021, [preprint arXiv:2107.01092](https://arxiv.org/abs/2107.01092)
+* J. Hampp, M. D&uuml;ren, Tom Brown, [**Import options for chemical energy carriers from renewable sources to Germany**](https://arxiv.org/abs/2107.01092), 2021, [preprint arXiv:2107.01092](https://arxiv.org/abs/2107.01092)
 
 * T. Brown, L. Reichenberg, [**Decreasing market value of variable renewables can be avoided by policy action**](https://arxiv.org/abs/2002.05209), **Energy Economics**, 2021, [postprint arXiv:2002.05209](https://arxiv.org/abs/2002.05209), [doi:10.1016/j.eneco.2021.105354](https://doi.org/10.1016/j.eneco.2021.105354)
 
@@ -122,7 +122,7 @@ Further information:
 
 * M. Victoria, K. Zhu, T. Brown, G.B. Andresen, M. Greiner, [**Early decarbonisation of the European energy system pays off**](https://arxiv.org/abs/2004.11009), **Nature Communications**, 2020, [preprint arXiv:2004.11009](https://arxiv.org/abs/2004.11009), [doi:10.1038/s41467-020-20015-4](https://doi.org/10.1038/s41467-020-20015-4)
 
-* F. Neumann, T. Brown [**The Near-Optimal Feasible Space of a Renewable Power System Model**](https://arxiv.org/abs/1910.01891), **Electric Power Systems Research**, 2020, [postprint arXiv:1910.01891](https://arxiv.org/abs/1910.01891), [doi:10.1016/j.epsr.2020.106690](https://doi.org/10.1016/j.epsr.2020.106690)
+* F. Neumann, T. Brown, [**The Near-Optimal Feasible Space of a Renewable Power System Model**](https://arxiv.org/abs/1910.01891), **Electric Power Systems Research**, 2020, [postprint arXiv:1910.01891](https://arxiv.org/abs/1910.01891), [doi:10.1016/j.epsr.2020.106690](https://doi.org/10.1016/j.epsr.2020.106690)
 
 
 * F. Hofmann, J. Hampp, F. Neumann, T. Brown, J. H&ouml;rsch, [**atlite: A Lightweight Python Package for Calculating Renewable Power Potentials and Time Series**](https://joss.theoj.org/papers/10.21105/joss.03294), **Journal of Open Source Software**, 2021, [doi:10.21105/joss.03294](https://doi.org/10.21105/joss.03294)
