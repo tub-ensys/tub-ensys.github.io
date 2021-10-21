@@ -36,7 +36,7 @@ best possible policy guidance for the transition to a sustainable energy future.
 
 Administration
 
-- [Paola Caria](mailto:p.caria.job@gmail.com)
+- [Paola Caria](mailto:p.caria@tu-berlin.de)
 - [Suzanne Linehan Winter](mailto:s.linehanwinter@ensys.tu-berlin.de)
 
 ## Teaching
@@ -69,4 +69,4 @@ Fachgebiet Digitaler Wandel in Energiesystemen\
 Institut für Energietechnik\
 Fakultät III\
 Einsteinufer 25 (TA 8)\
-10587 Berlin 
+10587 Berlin
