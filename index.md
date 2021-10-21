@@ -57,7 +57,12 @@ If you're interested, please send a CV and a transcript of records to [Fabian Ne
 
 ## Vacancies
 
-Current vacancies will be listed here.
+<!---
+We currently have no vacancies.
+-->
+
+- [PhD/Postdoc on 24/7 carbon-free energy in collaboration with Google](https://tub.stellenticket.de/de/offers/109218/?locale=en) (deadline 12.11.2021)
+- Studentische Hilfskraft / Tutor:in für Wirtschaftliche Grundlagen (bitte uns direkt kontaktieren)
 
 ## Current Research
 
