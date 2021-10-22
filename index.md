@@ -49,6 +49,22 @@ best possible policy guidance for the transition to a sustainable energy future.
 - [Paola Caria](mailto:p.caria@tu-berlin.de)
 - [Suzanne Linehan Winter](mailto:s.linehanwinter@ensys.tu-berlin.de)
 
+
+
+## Address
+
+Fachgebiet Digitaler Wandel in Energiesystemen\
+[Institut für Energietechnik](https://www.tu-berlin.de/fak_3/menue/einrichtungen/institute/institut_fuer_energietechnik/)\
+[Fakultät III](https://www.tu-berlin.de/fak_3/menue/ueber_uns/)\
+Einsteinufer 25 (TA 8)\
+10587 Berlin
+
+[office on OpenStreetMap](https://www.openstreetmap.org/node/1700020879)
+
++49 (0)30 314 22 890
++49 (0)30 314 26 908
+
+
 ## Teaching
 
 ### Winter Term 21/22
@@ -150,13 +166,3 @@ Further information:
 * A. Orths, C.L. Anderson, T. Brown, J. Mulhern, D. Pudjianto, B. Ernst, M. O'Malley, J. McCalley, G. Strbac, [**Flexibility From Energy Systems Integration: Supporting Synergies Among Sectors**](https://doi.org/10.1109/MPE.2019.2931054), **IEEE Power & Energy Magazine**, November 2019, [doi:10.1109/MPE.2019.2931054](https://doi.org/10.1109/MPE.2019.2931054)
 
 * M. Victoria, K. Zhu, T. Brown, G.B. Andresen, M. Greiner, [**The role of photovoltaics in a sustainable European energy system under variable CO2 emissions targets, transmission capacities, and costs assumptions**](https://arxiv.org/abs/1911.06629), **Progress in Photovoltaics**, 2019, [postprint arXiv:1911.06629](https://arxiv.org/abs/1911.06629), [doi:10.1002/pip.3198](https://doi.org/10.1002/pip.3198)
-
-
-
-## Address
-
-Fachgebiet Digitaler Wandel in Energiesystemen\
-Institut für Energietechnik\
-Fakultät III\
-Einsteinufer 25 (TA 8)\
-10587 Berlin
