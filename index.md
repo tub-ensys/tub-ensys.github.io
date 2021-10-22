@@ -31,8 +31,9 @@ best possible policy guidance for the transition to a sustainable energy future.
 ## Our Group
 
 - [Prof. Dr. Tom Brown](https://nworbmot.org)
-- [Lisa Zeyen](mailto:e.zeyen@tu-berlin.de)
 - [Dr. Fabian Neumann](https://neumann.fyi)
+- [Lisa Zeyen](mailto:e.zeyen@tu-berlin.de)
+
 
 ### Tutors
 
@@ -72,8 +73,8 @@ Einsteinufer 25 (TA 8)\
 | Course | Type | Lecturers |
 | ---  | --- | --- |
 | [Wirtschaftswissenschaftliche Grundlagen für Studierende der Ingenieurwissenschaften](https://isis.tu-berlin.de/course/view.php?id=26161) | Lecture | Prof. Dr. Tom Brown, Lisa Zeyen |
-| [Energy Economics](https://isis.tu-berlin.de/course/view.php?id=25940) | Lecture | Prof. Dr. Tom Brown, Fabian Neumann |
-| [New Developments in Energy Markets / Neue Entwicklungen auf den Energiemärkten](https://isis.tu-berlin.de/course/view.php?id=27485) | Seminar | Prof. Dr. a.D. Georg Erdmann, Prof. Andreas Grübel, Prof. Dr. Tom Brown, Fabian Neumann |
+| [Energy Economics](https://isis.tu-berlin.de/course/view.php?id=25940) | Lecture | Prof. Dr. Tom Brown, Dr. Fabian Neumann |
+| [New Developments in Energy Markets / Neue Entwicklungen auf den Energiemärkten](https://isis.tu-berlin.de/course/view.php?id=27485) | Seminar | Prof. Dr. a.D. Georg Erdmann, Prof. Andreas Grübel, Prof. Dr. Tom Brown, Dr. Fabian Neumann |
 
 ### Theses
 
