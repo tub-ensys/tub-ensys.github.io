@@ -30,14 +30,16 @@ best possible policy guidance for the transition to a sustainable energy future.
 
 ## Our Group
 
+### Researchers
+
 - [Prof. Dr. Tom Brown](https://nworbmot.org)
+- Philipp Glaum
 - [Dr. Fabian Neumann](https://neumann.fyi)
 - [Lisa Zeyen](mailto:e.zeyen@tu-berlin.de)
 
 
 ### Tutors
 
-- Ali Serour
 - Arne Kaschubowski
 - Tom Kähler
 
@@ -88,7 +90,6 @@ If you're interested, please send a CV and a transcript of records to [Fabian Ne
 We currently have no vacancies.
 -->
 
-- [PhD/Postdoc on 24/7 carbon-free energy in collaboration with Google](https://tub.stellenticket.de/de/offers/109218/?locale=en) (deadline 12.11.2021)
 - Studentische Hilfskraft / Tutor:in für Wirtschaftliche Grundlagen (bitte uns direkt kontaktieren)
 
 ## Current Research Projects
