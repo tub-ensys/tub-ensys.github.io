@@ -34,7 +34,9 @@ best possible policy guidance for the transition to a sustainable energy future.
 
 - [Prof. Dr. Tom Brown](https://nworbmot.org)
 - Philipp Glaum
+- Dr. Fabian Hofmann
 - [Dr. Fabian Neumann](https://neumann.fyi)
+- Christoph Tries
 - [Lisa Zeyen](mailto:e.zeyen@tu-berlin.de)
 
 
