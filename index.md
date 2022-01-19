@@ -44,6 +44,7 @@ best possible policy guidance for the transition to a sustainable energy future.
 
 - Arne Kaschubowski
 - Tom Kähler
+- Franka von Tluck und Toschonowitz
 
 ### Guests
 
