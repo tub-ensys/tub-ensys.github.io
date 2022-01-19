@@ -46,9 +46,10 @@ best possible policy guidance for the transition to a sustainable energy future.
 - Tom Kähler
 - Franka von Tluck und Toschonowitz
 
-### Guests
+### Guest Lecturers
 
-- Max Parzen (University of Edinburgh)
+- Prof. Andreas Grübel
+- Prof. a.D. Georg Erdmann
 
 ### Administration
 
