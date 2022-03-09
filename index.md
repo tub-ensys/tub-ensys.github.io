@@ -36,6 +36,7 @@ best possible policy guidance for the transition to a sustainable energy future.
 - Philipp Glaum
 - Dr. Fabian Hofmann
 - [Dr. Fabian Neumann](https://neumann.fyi)
+- Iegor Riepin
 - Christoph Tries
 - [Lisa Zeyen](mailto:e.zeyen@tu-berlin.de)
 
