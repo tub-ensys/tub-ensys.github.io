@@ -33,7 +33,7 @@ best possible policy guidance for the transition to a sustainable energy future.
 ### Researchers
 
 - [Prof. Dr. Tom Brown](https://nworbmot.org)
-- Philipp Glaum
+- [Philipp Glaum](mailto:p.glaum@tu-berlin.de)
 - Dr. Fabian Hofmann
 - [Dr. Fabian Neumann](https://neumann.fyi)
 - Iegor Riepin
@@ -75,6 +75,13 @@ Einsteinufer 25 (TA 8)\
 
 ## Teaching
 
+### Summer Term 22
+
+| Course | Type | Lecturers |
+| ---  | --- | --- |
+| Wirtschaftswissenschaftliche Grundlagen für Studierende der Ingenieurwissenschaften | Lecture | Prof. Dr. Tom Brown, Lisa Zeyen |
+| Energy Systems | Lecture | Prof. Dr. Tom Brown, Dr. Fabian Neumann, Philipp Glaum |
+| New Developments in Energy Markets / Neue Entwicklungen auf den Energiemärkten | Seminar | Prof. Dr. a.D. Georg Erdmann, Prof. Andreas Grübel, Prof. Dr. Tom Brown, Dr. Fabian Neumann |
 ### Winter Term 21/22
 
 | Course | Type | Lecturers |
