@@ -82,6 +82,7 @@ Einsteinufer 25 (TA 8)\
 | Wirtschaftswissenschaftliche Grundlagen für Studierende der Ingenieurwissenschaften | Lecture | Prof. Dr. Tom Brown, Lisa Zeyen |
 | Energy Systems | Lecture | Prof. Dr. Tom Brown, Dr. Fabian Neumann, Philipp Glaum |
 | New Developments in Energy Markets / Neue Entwicklungen auf den Energiemärkten | Seminar | Prof. Dr. a.D. Georg Erdmann, Prof. Andreas Grübel, Prof. Dr. Tom Brown, Dr. Fabian Neumann |
+
 ### Winter Term 21/22
 
 | Course | Type | Lecturers |
