@@ -40,6 +40,12 @@ best possible policy guidance for the transition to a sustainable energy future.
 - Christoph Tries
 - [Lisa Zeyen](mailto:e.zeyen@tu-berlin.de)
 
+### Affiliated Researchers
+
+- Martha Maria Frysztacki
+- Johannes Hampp
+- Leon Schumm
+- Xiaowei Zhou
 
 ### Tutors
 
