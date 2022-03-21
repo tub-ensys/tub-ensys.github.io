@@ -42,10 +42,11 @@ best possible policy guidance for the transition to a sustainable energy future.
 
 ### Affiliated Researchers
 
-- Martha Maria Frysztacki
-- Johannes Hampp
-- Leon Schumm
-- Xiaowei Zhou
+- [Martha Maria Frysztacki (KIT)](https://www.iai.kit.edu/english/2154_2752.php)
+- [Johannes Hampp (Uni Gießen](https://www.uni-giessen.de/fbz/zentren/zeu/Team/zeumembersall/Johannes_Hampp/dphampp)
+- [Martin Kittel (DIW)](https://www.diw.de/de/diw_01.c.602198.de/personen/kittel__martin.html)
+- [Leon Schumm (OTH Regensburg)](https://www.fenes.net/ueber-uns/team/)
+- [Xiaowei Zhou (TU Berlin)](https://www.researchgate.net/profile/Xiaowei-Zhou-3)
 
 ### Tutors
 
