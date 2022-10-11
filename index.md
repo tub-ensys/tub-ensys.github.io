@@ -82,6 +82,17 @@ Einsteinufer 25 (TA 8)\
 
 ## Teaching
 
+### Winter Term 22/23
+
+| Course | Type | Lecturers |
+| ---  | --- | --- |
+| [Wirtschaftswissenschaftliche Grundlagen für Studierende der Ingenieurwissenschaften](https://isis.tu-berlin.de/course/view.php?id=30774) | Lecture | Prof. Dr. Tom Brown, Lisa Zeyen |
+| [Energy Economics](https://isis.tu-berlin.de/course/view.php?id=31367) | Lecture | Prof. Dr. Tom Brown, Philipp Glaum |
+| [Data Science for Energy System Modelling](https://isis.tu-berlin.de/course/view.php?id=30525) | Lecture | Dr. Fabian Neumann |
+| New Developments in Energy Markets / Neue Entwicklungen auf den Energiemärkten | Seminar | Prof. Dr. a.D. Georg Erdmann, Prof. Andreas Grübel, Prof. Dr. Tom Brown, Philipp Glaum |
+| New Research in Energy System Modelling | Seminar | Prof. Dr. Tom Brown, Prof. Dr. Gunnar Luderer, Dr. Iegor Riepin |
+
+
 ### Summer Term 22
 
 | Course | Type | Lecturers |
