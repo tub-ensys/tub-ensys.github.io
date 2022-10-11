@@ -34,9 +34,9 @@ best possible policy guidance for the transition to a sustainable energy future.
 
 - [Prof. Dr. Tom Brown](https://nworbmot.org)
 - [Philipp Glaum](mailto:p.glaum@tu-berlin.de)
-- Dr. Fabian Hofmann
+- [Dr. Fabian Hofmann](http://fabianhofmann.org)
 - [Dr. Fabian Neumann](https://neumann.fyi)
-- Iegor Riepin
+- [Iegor Riepin](https://iriepin.com/)
 - Christoph Tries
 - [Lisa Zeyen](mailto:e.zeyen@tu-berlin.de)
 
@@ -97,7 +97,7 @@ Einsteinufer 25 (TA 8)\
 
 | Course | Type | Lecturers |
 | ---  | --- | --- |
-| Wirtschaftswissenschaftliche Grundlagen für Studierende der Ingenieurwissenschaften | Lecture | Prof. Dr. Tom Brown, Lisa Zeyen |
+| [Wirtschaftswissenschaftliche Grundlagen für Studierende der Ingenieurwissenschaften](https://isis.tu-berlin.de/course/view.php?id=29645) | Lecture | Prof. Dr. Tom Brown, Lisa Zeyen |
 | [Energy Systems](https://isis.tu-berlin.de/course/view.php?id=28764) | Lecture | Prof. Dr. Tom Brown, Dr. Fabian Neumann, Philipp Glaum |
 | [New Developments in Energy Markets / Neue Entwicklungen auf den Energiemärkten](https://isis.tu-berlin.de/course/view.php?id=29009) | Seminar | Prof. Dr. a.D. Georg Erdmann, Prof. Andreas Grübel, Prof. Dr. Tom Brown, Dr. Fabian Neumann |
 
@@ -166,6 +166,7 @@ Further information:
 - [Google's 24/7 CFE concept](https://www.gstatic.com/gumdrop/sustainability/247-carbon-free-energy.pdf)
 - [Google's 24/7 CFE metrics and methodology](https://www.gstatic.com/gumdrop/sustainability/24x7-carbon-free-energy-methodologies-metrics.pdf)
 - [UN's 24/7 Carbon-free Energy Compact](https://www.un.org/en/energy-compacts/page/compact-247-carbon-free-energy)
+- [TUB Press release](https://www.tu.berlin/go50925/)
 
 ## Selected Recent Publications
 
